@@ -14,6 +14,6 @@
 * ->
 * ->
 * ->
-#####WHY?
+##### WHY?
 I have been learning Japanese for a bit, and I feel like it would be useful to know what words are most frequent in shows. So I built this to learn some more Java.
 
