@@ -1,19 +1,19 @@
-# J-SubtitleAnalyzer
+# J-SubAnalyzer
 
+## Finding the most used words in Anime.
 
-## **Video explaining:**
+## Video:
+https://www.youtube.com/watch?v=g2Qd1GigwI0&feature=youtu.be&ab_channel=log1
 
-**Modules Used:**
-1.
-2.
-3.
-4.
-5.
-**FEATURES:**
-* ->
-* ->
-* ->
-* ->
-##### WHY?
-I have been learning Japanese for a bit, and I feel like it would be useful to know what words are most frequent in shows. So I built this to learn some more Java.
+## Kuromoji:
+https://www.atilika.org/
 
+## FEATURES:
+* Creates subtitle objects!
+* Parses the Japanese in each sub!
+* Appends each parsing to a master Hashmap!
+* Sorts by frequency!
+* Creates a CSV of all of these words from each sub file, sorted by frequency!
+
+###### TO DO:
+I will likely create a similar version of this for webscraping. Maybe later on I will make a GUI for it too. Good way to learn Java!
