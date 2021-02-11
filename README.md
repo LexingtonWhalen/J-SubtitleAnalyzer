@@ -8,7 +8,7 @@
 ## :package: Modules / Packages:
 * kuromoji: https://www.atilika.org/
 ## :grey_question: What is it?
-
+* Analyzes Japanese subtitle files. Parses the most frequent words from the series via looking at each episode's subtitles.
 ## :zap: FEATURES:
 * Creates subtitle objects!
 * Parses the Japanese in each sub!
