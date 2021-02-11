@@ -5,6 +5,9 @@
 ## :cinema: Video:
 * https://www.youtube.com/watch?v=g2Qd1GigwI0&feature=youtu.be&ab_channel=log1
 
+## :grey_question: What is it?
+* Analyzes Japanese subtitle files. Parses the most frequent words from the series via looking at each episode's subtitles.
+
 ## :zap: Features:
 * Creates subtitle objects!
 * Parses the Japanese in each sub!
@@ -14,9 +17,6 @@
 
 ## :package: Modules / Packages:
 * kuromoji: https://www.atilika.org/
-
-## :grey_question: What is it?
-* Analyzes Japanese subtitle files. Parses the most frequent words from the series via looking at each episode's subtitles.
 
 ###### :hammer: To do:
 I will likely create a similar version of this for webscraping. Maybe later on I will make a GUI for it too. Good way to learn Java!
