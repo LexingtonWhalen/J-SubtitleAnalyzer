@@ -1,4 +1,4 @@
-# J-SubAnalyzer
+# 🇯🇵 J-SubAnalyzer
 
 ## Finding the most used words in Anime.
 
